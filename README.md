@@ -1,0 +1,2 @@
+# k8s-install-centos8-containerd
+一个专为Containerd容器运行时优化的Kubernetes安装工具包，特别适合在CentOS 8环境下快速部署最新版Kubernetes，并针对中国大陆网络环境进行了全面优化。
