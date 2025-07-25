@@ -138,3 +138,13 @@ k8s-centos8-containerd/
 ```
 
 此项目全面解决了中国大陆环境下安装Kubernetes的各种痛点，是CentOS 8用户快速搭建生产级Kubernetes集群的优选方案。
+
+<a href="https://star-history.com/#Xnidada/k8s-install-centos8-containerd&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Xnidada/k8s-install-centos8-containerd&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Xnidada/k8s-install-centos8-containerd&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Xnidada/k8s-install-centos8-containerd&type=Date" />
+ </picture>
+</a>
+
+**如果觉得这个项目不错对您有所帮助的话，请点击仓库右上角的 ⭐ 并分享给更多的朋友。**
