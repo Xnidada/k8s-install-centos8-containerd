@@ -34,7 +34,7 @@ sudo ./kube-install-containerd.sh step2
 
 1. **下载安装脚本**
 ```bash
-curl -LO https://raw.githubusercontent.com/Xnidada/k8s-install-centos8-containerd/main/kube-install-containerd.sh
+curl -LO https://raw.githubusercontent.com/Xnidada/k8s-install-centos8-containerd/refs/heads/main/kube-install-containerd.sh
 chmod +x kube-install-containerd.sh
 ```
 
