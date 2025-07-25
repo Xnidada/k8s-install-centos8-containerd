@@ -1,4 +1,19 @@
 #!/bin/bash
+
+# =============================================================
+# Kubernetes 一键安装脚本 (CentOS 8 + Containerd)
+# 作者: X_ni_dada
+# 项目: https://github.com/Xnidada/k8s-install-centos8-containerd
+# =============================================================
+
+echo "============================================================="
+echo "Kubernetes 一键安装脚本 (CentOS 8 + Containerd)"
+echo "作者: X_ni_dada"
+echo "项目地址: https://github.com/Xnidada/k8s-install-centos8-containerd"
+echo "如果对您有帮助，请给项目加个星⭐支持！"
+echo "============================================================="
+sleep 2
+
 set -e
 
 # ==============================
