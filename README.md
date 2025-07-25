@@ -183,9 +183,6 @@ k8s-centos8-containerd/
 ├── install-k8s-worker.sh        # Worker节点安装脚本（由Master安装后生成）
 ├── README.md                    # 本文档
 ├── LICENSE                      # Apache 2.0许可证
-└── examples/                    # 配置示例
-    ├── master-config.conf       # Master配置示例
-    └── worker-config.conf       # Worker配置示例
 ```
 
 ## 注意事项
