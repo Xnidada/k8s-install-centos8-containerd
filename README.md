@@ -180,7 +180,7 @@ systemctl enable --now firewalld
 ```
 k8s-centos8-containerd/
 ├── kube-install-containerd.sh   # Master节点安装脚本
-├── install-k8s-worker.sh        # Worker节点安装脚本（由Master安装后生成）
+├── install-k8s-worker.sh        # Worker节点安装脚本（由Master安装后生成,无需手动设置）
 ├── README.md                    # 本文档
 ├── LICENSE                      # Apache 2.0许可证
 ```
