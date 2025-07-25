@@ -1,9 +1,4 @@
 # Kubernetes安装脚本 - CentOS 8 + Containerd优化版
-
-https://img.shields.io/badge/License-Apache%202.0-blue.svg](https://opensource.org/licenses/Apache-2.0)
-!https://img.shields.io/badge/Platform-CentOS%208-lightgrey
-https://img.shields.io/badge/Runtime-Containerd%201.6%2B-green](https://containerd.io)
-
 专为CentOS 8环境设计的Kubernetes一键安装脚本，使用containerd作为容器运行时，针对中国大陆网络环境深度优化，支持最新稳定版Kubernetes快速部署。
 
 ## 核心优势
